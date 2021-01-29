@@ -29,4 +29,5 @@
     margin: 4px 2px;
     cursor: pointer;
   }
-  .button3 {background-color: #f44336;} /* Red */ 
+  .button-red {background-color: #f44336;} /* Red */ 
+  .button-blue {background-color: #1e65eb;} /* Red */ 
